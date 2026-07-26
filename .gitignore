@@ -31,6 +31,5 @@ ENV/
 .ipynb_checkpoints
 
 # Project specific models and data
-models/*.pkl
 data/spam.csv
 *.log
